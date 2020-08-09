@@ -1,0 +1,56 @@
+body {
+	background: white;
+}
+
+#self-header {
+	background: #adb5bd;
+	margin: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+
+#brand-name {
+	font-size: 3em;
+	font-family: oxygen sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+#nav-icon {
+	position: absolute;
+	right: 10px;
+	margin: 15px;
+}
+
+#menu {
+	background: #787878;
+	margin: 0;
+	padding: 0;
+}
+
+#list-item {
+	padding: 10px;
+	font-size: 20px;
+	border: 1px solid black;
+	font-family: sans-serif;
+}
+
+#our-menu{
+	font-size: 3em;
+	font-family: sans-serif oxygen;
+	font-weight: bold;
+	margin: 20px;
+}
+
+#tile {
+	background: #abc789;
+	box-sizing: border-box;
+	margin: 20px;
+	padding: 20px;
+}
+
+.in-title {
+	font-size: 24px;
+	font-weight: 600;
+}
